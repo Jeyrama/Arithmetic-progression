@@ -13,3 +13,15 @@ Example:
 
 
 // Solution
+
+function arithmeticSequenceElements(a, d, n) {
+  const arr = [];
+  let i = a;
+
+  while (arr.length < n) {
+    arr.push(i);
+    i += d;
+  }
+
+  return arr.join(", ");
+}
