@@ -25,3 +25,5 @@ function arithmeticSequenceElements(a, d, n) {
 
   return arr.join(", ");
 }
+
+// or
