@@ -10,3 +10,6 @@ Example:
   # first element: 1, difference: 2, how many: 5
   arithmetic_sequence_elements(1, 2, 5) == "1, 3, 5, 7, 9"
 */
+
+
+// Solution
